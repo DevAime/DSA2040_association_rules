@@ -11,6 +11,9 @@ By identifying patterns of products bought together, businesses can gain insight
 
 The analysis is performed on the **Online Retail Dataset (UK)**, containing over **500,000 transactions** from a UK-based online retail store.
 
+The full analysis is available in Google Colab:
+[Open in Colab](https://colab.research.google.com/drive/1CDdirI1wwc3TAbX_DcWpOkhcFczElQhE?usp=sharing)
+
 ---
 
 ## 2. Dataset Description
@@ -133,10 +136,8 @@ The analysis is performed on the **Online Retail Dataset (UK)**, containing over
 
 ---
 
-## 7. Google Colab Notebook
-
-The full analysis is available in Google Colab:
-[Open in Colab](https://colab.research.google.com/drive/1CDdirI1wwc3TAbX_DcWpOkhcFczElQhE?usp=sharing)
+For questions or feedback, reach out to:
+Email: aimmug200507@gmail.com
 
 
 
